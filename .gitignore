@@ -1,0 +1,12 @@
+# Ignorar carpetas generadas por el IDE y compilación
+bin/
+obj/
+.vs/
+Properties/launchSettings.json
+
+# Ignorar archivos de usuario específicos
+*.user
+*.suo
+
+# Ignorar archivos de configuración local
+appsettings.Development.json
